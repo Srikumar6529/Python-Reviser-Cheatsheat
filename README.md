@@ -1,7 +1,3 @@
-Based on the content of the cheat sheet you uploaded, here's a draft for a GitHub `README.md` file tailored to your repository:  
-
----
-
 # Python Cheat Sheet 🐍  
 
 ## About  
